@@ -1,4 +1,3 @@
-Teste de BI – Processamento e Análise de Dados
 Neste repositório apresento o resultado de um teste de BI.
 Para otimizar o processo, utilizei Python (pandas) para ajustar as datas e realizar a divisão correta, pois no arquivo original a separação era feita com “-”, enquanto o ideal para o Excel é “/”.
 
